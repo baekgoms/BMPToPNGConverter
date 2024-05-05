@@ -1,0 +1,2 @@
+# BMPToPNGConverter
+*.bmp To *.png
